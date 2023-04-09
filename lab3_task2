@@ -2,7 +2,6 @@ format PE console
 entry N1
 include 'C:\Users\vipni\OneDrive\Desktop\fasm\INCLUDE\win32ax.inc'
 
-
 section '.code' code readable executable
 N1:
     rdtsc
